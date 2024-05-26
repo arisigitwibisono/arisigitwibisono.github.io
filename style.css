@@ -33,12 +33,12 @@ a {
 
 @media screen and (max-width: 1080px) {
     .code-area {
-		font-size: 3vw;
+		font-size: 5vw;
 		min-width: auto;
         width: 95%;
 		margin: auto;
-		padding: 3px;
-		padding-left: 7px;
-		line-height: 3.5vw;
+		padding: 5px;
+		
+		line-height: 6.5vw;
     }
 }
