@@ -31,7 +31,7 @@ a {
     display: block;
 }
 
-@media screen and (max-width: 320px) {
+@media screen and (max-width: 1080px) {
     .code-area {
 		font-size: 5vw;
 		min-width: auto;
